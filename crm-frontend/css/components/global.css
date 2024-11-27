@@ -1,0 +1,13 @@
+.body {
+  min-width: 320px;
+  height: 100vh;
+  font-family: "Open Sans", sans-serif;
+  color: var(--clr-mine-shaft);
+  background-color: var(--clr-white-sand);
+}
+
+.container {
+  margin-inline: auto;
+  padding: 0 20px;
+  width: min(100%, 1226px);
+}

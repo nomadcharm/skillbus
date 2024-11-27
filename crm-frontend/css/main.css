@@ -1,7 +1,5 @@
 @import "./components/variables.css";
-
-
-.body {
-  height: 100vh;
-  background-color: var(--clr-white-sand);
-}
+@import "./components/fonts.css";
+@import "./components/settings.css";
+@import "./components/global.css";
+@import "./components/header.css";
