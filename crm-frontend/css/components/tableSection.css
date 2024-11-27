@@ -1,0 +1,23 @@
+.clients {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.clients__title {
+  margin-bottom: 26px;
+}
+
+.clients__add-btn {
+  position: relative;
+  left: 50%;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 26.5px;
+  border: 1px solid var(--clr-heliotrope);
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 19px;
+  color: var(--clr-heliotrope);
+  transform: translate(-50%);
+}

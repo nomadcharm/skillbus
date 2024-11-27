@@ -1,0 +1,71 @@
+.table {
+  margin-bottom: 36px;
+  width: 100%;
+}
+
+.table__head {
+  background-color: transparent;
+}
+
+.table__head-cell {
+  padding-bottom: 6px;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16.34px;
+  text-align: left;
+  color: var(--clr-silver-chalice);
+}
+
+.table__head-cell--id {
+  padding-left: 18px;
+  width: 8.5%;
+  text-transform: uppercase;
+  color: var(--clr-heliotrope);
+  cursor: pointer;
+}
+
+.table__head-cell--name {
+  width: 31.1%;
+  cursor: pointer;
+}
+
+.table__head-cell--date-created {
+  width: 14.7%;
+  cursor: pointer;
+
+}
+
+.table__head-cell--date-edited {
+  width: 14.6%;
+  cursor: pointer;
+}
+
+.table__head-cell--contacts {
+  width: 13.6%;
+
+}
+
+.table__head-cell--actions {
+  width: 17.8%;
+
+}
+
+.table__body {
+  background-color: var(--clr-white);
+}
+
+.table__body-cell {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 19.07px;
+  text-align: left;
+}
+
+.table__body-cell--id {
+  padding-left: 18px;
+  padding-top: 22px;
+  padding-bottom: 22px;
+  font-size: 12px;
+  line-height: 16.34px;
+  color: var(--clr-silver-chalice);
+}
