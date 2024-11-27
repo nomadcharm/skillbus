@@ -1,4 +1,7 @@
+@import "./components/variables.css";
+
+
 .body {
   height: 100vh;
-  background-color: red;
+  background-color: var(--clr-white-sand);
 }

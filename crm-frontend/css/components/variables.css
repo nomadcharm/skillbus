@@ -1,0 +1,14 @@
+:root {
+  --clr-mine-shaft: #333333;
+  --clr-silver-chalice: #b0b0b0;
+  --lr-gray-suit: #c8c5d1;
+  --clr-white-sand: #f5f5f5;
+  --clr-white: #ffffff;
+  --clr-mischka: #e7e5eb;
+  --clr-heliotrope: #9873ff;
+  --clr-melrose: #b89eff;
+  --clr-burnt-sienna: #f06a4d;
+
+  /* opacity */
+  --clr-silver-chalice-30: #33333333;
+}
